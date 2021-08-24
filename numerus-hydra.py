@@ -1,7 +1,7 @@
 # Created by:       Brad Arrowood
 # Created on:       2021.08.12
 # Last updated:     2021.08.18
-# Script name:      hydra-numerus.py
+# Script name:      numerus-hydra.py
 # Python version:   3.9.6
 # Description:      a script to create a truly random set of numbers
 #                   a random pixel image is created and converted into a 3-dimensional array of the RGB values
