@@ -1,6 +1,6 @@
 # Created by:       Brad Arrowood
 # Created on:       2021.08.12
-# Last updated:     2021.08.18
+# Last updated:     2021.08.24
 # Script name:      numerus-hydra.py
 # Python version:   3.9.6
 # Description:      a script to create a truly random set of numbers
