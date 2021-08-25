@@ -1,13 +1,13 @@
 # Created by:       Brad Arrowood
 # Created on:       2021.08.12
-# Last updated:     2021.08.24
+# Last updated:     2021.08.25
 # Script name:      numerus-hydra.py
 # Python version:   3.9.6
 # Description:      a script to create a truly random set of numbers
 #                   a random pixel image is created and converted into a 3-dimensional array of the RGB values
 #                   a random pixel is then chosen and the RGB value is multiplied by another random number
-#                   the result is then divided by yet another random number resulting in a 3-decimal number
-#                       between the values of 0 and 1
+#                   the result is then divided by yet another random number resulting in a 3-digit decimal
+#                       number between the values of 0 and 1
 #
 # Requirements:     numpy
 #                   pillow
